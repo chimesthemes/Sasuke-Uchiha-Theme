@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "Chime in theyre natraul habitat#1553",
+        "name": "Sasuke Uchiha background",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018655579717251113\/images_17.jpeg",
+        "overlay_alpha": 3
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -10805130,
+        "background": 0,
+        "background_secondary": 0,
+        "statusbar": -10805130,
+        "active_channel": -10805130,
+        "input_background": -10805130,
+        "blocked_bg": -10805130,
+        "mention_highlight": 2139372964
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
